@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.genbutton {
+    text-align: center;
+}
+
+.genbutton input {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    font-size: 30px;
+}
+
+.genbutton input:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    font-size: 30px;
+}
+
+.fantasytext h2 {
+    color: white;
+}
